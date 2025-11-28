@@ -1,4 +1,6 @@
-# Face Detection using Haar Cascades with OpenCV and Matplotlib
+# EX 12: Face Detection using Haar Cascades with OpenCV and Matplotlib
+## Name: ESHWAR T
+## Register Number: 212223230054
 
 ## Aim
 
